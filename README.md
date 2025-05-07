@@ -1,7 +1,7 @@
 # Identifying-Key-Entities-in-Recipe-Data---Saad-Teli
 
 # Overview
-This repository contains the solution for the "Identifying Key Entities in Recipe Data" task. The goal of this project is to extract and analyze important components (like ingredients and units) from a dataset of recipes, applying NLP and data processing techniques.
+1. This repository contains the solution for the "Identifying Key Entities in Recipe Data" task. The goal of this project is to extract and analyze important components (like ingredients and units) from a dataset of recipes, applying NLP and data processing techniques.
 
 # Repository Structure
 The zip file and this repository include the following components:
