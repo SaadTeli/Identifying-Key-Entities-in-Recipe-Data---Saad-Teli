@@ -12,21 +12,21 @@
 3. Plots include top ingredients and units in training data.
 
 # 📄 Report.pdf
-A comprehensive report that explains:
-Problem Statement
-Dataset Overview
-Methodology & Techniques Used
-Visualizations and Charts
-Insights & Actionable Outcomes
-Challenges faced and how they were handled.
-Naming Convention for Submission
-The final ZIP file should be named:
-Identifying_Key_Entities_in_Recipe_Data_<your_name>.zip
+1. A comprehensive report that explains:
+2. Problem Statement
+3. Dataset Overview
+4. Methodology & Techniques Used
+5. Visualizations and Charts
+6. Insights & Actionable Outcomes
+7. Challenges faced and how they were handled.
+8. Naming Convention for Submission
+9. The final ZIP file should be named:
+10. Identifying_Key_Entities_in_Recipe_Data_<your_name>.zip
 
 # Make sure it includes:
-Solution_Notebook.ipynb
-Report.pdf
-How to Use
-Clone this repository or unzip the folder.
-Open the notebook Solution_Notebook.ipynb in Jupyter or VSCode.
-Run each cell sequentially to reproduce the results and plots.
+1. Solution_Notebook.ipynb
+2. Report.pdf
+3. How to Use
+4. Clone this repository or unzip the folder.
+5. Open the notebook Solution_Notebook.ipynb in Jupyter or VSCode.
+6. Run each cell sequentially to reproduce the results and plots.
